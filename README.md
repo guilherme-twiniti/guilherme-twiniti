@@ -1,4 +1,4 @@
-## Salve! Eu sou a Guilherme Alves 
+## Guilherme Alves 
 
 ### Git profissional(atual)
  <div>
